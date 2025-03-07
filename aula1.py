@@ -9,6 +9,8 @@ def calcNota():
     media = (nota1 + nota2) / 2
     print(f"Média final: {media}")
 
+
+
 # Exercicio n°1
 def nome():
     nome = input("Digite seu nome: ")
@@ -24,6 +26,8 @@ def nome():
     print(f"Disciplina: {disci}\n")
     print(f"{produto}")
 
+
+
 # Exercicio n°2
 def cidade():
     nome = input("Nome: ")
@@ -32,6 +36,8 @@ def cidade():
 
     print(f"Nome: {nome}\nIdade: {idade}\nCidade: {cidade}")
 
+
+
 # Exercicio n°3
 def atributos():
     altura = 1.80
@@ -39,10 +45,16 @@ def atributos():
 
     print(f"{peso}\n{altura}")
 
+
+
 # Exercicio n°4
 def programa4():
     idade = 18
     ano = 2002
+    print(idade)
+    print(ano)
+
+
 
 # Exercicio n°5
 def declarVarComplex():
@@ -77,18 +89,29 @@ def declarVarList():
 def exercicio9():
     print("Ciências da Computação - Unicsul")
 
+
+
 def exercicio10():
     profissao = input("Digite o nome da sua profissão: ")
     print(f"Profissão: {profissao}")
+
+
 
 def exercicio11():
     idade = int(input("Digite a sua idade: "))
     print(f"Idade: {idade}")
 
+
+
 def exercicio12():
     family = input("Digite o seu sobrenome: ")
     print(f"Família {family}")
 
+
+
 def exercicio13():
     esporte = input("Qual é o seu esporte favorito: ")
     print(f"Esporte favorito: {esporte}")
+
+
+
